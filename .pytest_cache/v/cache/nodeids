@@ -1,0 +1,5 @@
+[
+  "tests/test_mini_env_loader.py::TestLoader::test_basic",
+  "tests/test_mini_env_loader.py::TestLoader::test_empty",
+  "tests/test_mini_env_loader.py::TestLoader::test_type_error"
+]
